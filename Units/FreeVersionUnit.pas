@@ -45,7 +45,7 @@ Released June, 2006
 
 New features:
    *  Bulkheads
-   *  Connection to PDStrip   
+   *  Connection to PDStrip made
 Bugs fixes or improvements:
    *  Error in crosscurves calculation (access violation)
 
